@@ -1,0 +1,8 @@
+{
+  "sampleData": {
+    "f2a314ff-906e-4280-b2b5-16e73119e408": {
+      "payload": "sample_data/list_csv_1.csv",
+      "attributes": "sample_data/list_csv.csv"
+    }
+  }
+}

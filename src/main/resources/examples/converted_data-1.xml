@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Destination>
+  <Airport>
+    <Code>ROC</Code>
+    <Name>Greater Rochester</Name>
+    <Location> Rochester NY</Location>
+  </Airport>
+  <Airport>
+    <Code>ORD</Code>
+    <Name>Ohare</Name>
+    <Location>Chicago IL</Location>
+  </Airport>
+</Destination>
